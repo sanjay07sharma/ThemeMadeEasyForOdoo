@@ -7,8 +7,8 @@
     'depends': ['website'],
     'data': [
         'views/snippets/s_banner.xml',
-        # 'views/footer.xml',
-        # 'views/header.xml',
+        'views/footer.xml',
+        'views/header.xml',
     ],
 
     'images': [
